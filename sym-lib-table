@@ -1,0 +1,5 @@
+(sym_lib_table
+  (lib (name "Sensor_Optical_rhssk")(type "KiCad")(uri "${KIPRJMOD}/lib/kicad-symbols/Sensor_Optical_rhssk.kicad_sym")(options "")(descr ""))
+  (lib (name "power_rhssk")(type "KiCad")(uri "${KIPRJMOD}/lib/kicad-symbols/power_rhssk.kicad_sym")(options "")(descr ""))
+  (lib (name "PMW3360")(type "Legacy")(uri "${KIPRJMOD}/lib/PMW3360.pretty/PMW3360.lib")(options "")(descr ""))
+)

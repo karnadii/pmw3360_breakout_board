@@ -1,0 +1,11 @@
+Comment,Designator,Footprint,LCSC Part #
+"4.7uF Unpolarized capacitor, small symbol",C1,C_0603_1608Metric_Pad1.08x0.95mm_HandSolder,C19666
+"0.1uF Unpolarized capacitor, small symbol",C2,C_0603_1608Metric_Pad1.08x0.95mm_HandSolder,C14663
+"1uF Unpolarized capacitor, small symbol",C3,C_0603_1608Metric_Pad1.08x0.95mm_HandSolder,C15849
+MountingHole Mounting Hole without connection,"H1,H2",MountingHole_2.2mm_M2_DIN965_Pad,
+"Conn_01x06 Generic connector, single row, 01x06, script generated (kicad-library-utils/schlib/autogen/connector/)",J1,JST_SH_SM06B-SRSS-TB_1x06-1MP_P1.00mm_Horizontal,
+"Conn_01x06 Generic connector, single row, 01x06, script generated (kicad-library-utils/schlib/autogen/connector/)",J2,PinHeader_1x06_P2.54mm_Vertical,
+"39 Resistor, small symbol",R1,R_0603_1608Metric_Pad0.98x0.95mm_HandSolder,C365424
+"10k Resistor, small symbol",R2,R_0603_1608Metric_Pad0.98x0.95mm_HandSolder,C25804
+PMW3360 ,U1,PMW3360,
+"TLV70019_SOT23-5 200mA Low Dropout Voltage Regulator, Fixed Output 1.9V, SOT-23-5",U2,SOT-23-5,C146366
